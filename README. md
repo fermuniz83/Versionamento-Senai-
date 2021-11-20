@@ -1,0 +1,9 @@
+1 Eu utilizei o git init para criar o arquivo git
+
+2 Eu usei a função git remote para vincular meu repositorio com github
+
+3 Usei o git add . para adicionar meus arquivos 
+
+4 Usei o git commit -m para salvar alterações no meu porojeto
+
+5 Usei o git push para enviar os arquivos para o github 
